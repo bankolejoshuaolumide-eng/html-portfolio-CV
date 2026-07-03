@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>My Resume</title>
+    </head>
+    <Body>
+        <h1 style="text-align: center; text-transform: uppercase">Bankole Joshua olumide</h1>
+        <a href="./connectwithjosh"><img src="./my picture.jpeg" height=100"></a>
+        <h4 style="margin-top: 0;"><a href="./connectwithjosh">contact me</a></h4>
+
+        <hr />
+        <h2 style="text-align: center; text-transform: uppercase">professional Summary</h2>
+            <p>Certified SAP Security Administrator and SAP GRC Consultant with proven expertise in SAP 
+authorization management, access governance, user provisioning, and Segregation of Duties 
+(SoD) risk mitigation across enterprise SAP environments. Demonstrated success in optimizing 
+role design, strengthening compliance controls, resolving authorization issues, and supporting 
+audit readiness through effective use of SAP security tools including PFCG, SU01, SU24, SU25, 
+and SAP GRC Access Control. 
+Combines strong technical expertise in SAP security architecture with a solid background in 
+business intelligence and analytics to deliver secure, efficient, and business-aligned access 
+solutions. Recognized for improving system access efficiency, simplifying technical knowledge 
+transfer, and driving continuous process improvements through data-driven decision-making.
+            </p>
+            <hr />
+            <h2 style="text-align: center; text-transform: uppercase">core competencies</h2>
+            <ul>
+                <li>SAP Security & Authorization Administration</li>
+                <li>SAP GRC Access Control (ARA, ARM, BRM) </li>
+                <li>User Access Provisioning & Role Administration </li>
+                <li>Segregation of Duties (SoD) Risk Analysis </li>
+                <li>Authorization Objects & Profile Configuration </li>
+                <li>SAP Audit & Compliance Support </li>
+                <li>Access Governance & Risk Mitigation </li>
+                <li>SAP Incident Resolution & Troubleshooting</li>
+                <li>SAP Fiori & S/4HANA Security</li>
+                <li>Identity & Access Management (IAM)</li>
+                <li>Security Training & Knowledge Transfer</li>
+                <li>Data Analytics & Business Intelligence Reporting</li>
+                <li>Cross-functional Collaboration</li>
+                <li>Process Optimization</li>
+                <hr />
+            </ul>
+            <h2 style="text-align: center; text-transform: uppercase; margin-bottom: 0">PERSONAL EXPERIENCE</h2>
+            <p style="font-size: 20px;"><strong>Security Administrator / SAP GRC Consultant</strong> <br />
+            Infotech Risks Security Limited (IRSL Consulting)<br />
+            Mar 2024 - Present<br /></p>
+            <p><strong>key achievements</strong></p>
+            <ul>
+                <li>Strengthened enterprise SAP security posture by delivering robust access control 
+                    solutions and optimizing role-based authorization structures across multiple SAP 
+                    systems. 
+                </li>
+                <li>Enhanced compliance and governance standards through effective support of SAP 
+                    GRC Access Control implementation, contributing to improved risk visibility and 
+                    access governance. 
+                </li>
+                <li>
+                    Reduced Segregation of Duties (SoD) exposure by conducting detailed risk 
+                    assessments and implementing proactive access remediation strategies. 
+                </li>
+                <li>
+                    Improved user access efficiency through streamlined provisioning processes, role 
+                    assignment optimization, and timely resolution of authorization-related incidents. 
+                </li>
+                <li>
+                    Supported successful audit and compliance exercises through periodic access reviews 
+                    and enforcement of SAP security best practices.
+                </li>
+                <li>
+                    Accelerated issue resolution turnaround by diagnosing and resolving authorization 
+                    challenges, improving overall user productivity and system usability. 
+                </li>
+                <li>
+                    Delivered SAP security training to PAP and RAP participants at Infotech Academy, 
+                    increasing practical understanding of SAP security concepts and enhancing 
+                    participant readiness for implementation environments. 
+                </li>
+                <li>
+                    Designed and deployed participant feedback systems that generated actionable 
+                    insights, enabling continuous enhancement of training quality and program delivery. 
+                </li>
+            </ul>
+                <p style="font-size: 20px;"><strong>Community Development Service (CDS) Volunteer  Digital Literacy & Cyber 
+                Awareness (NYSC)</strong><br />
+                National Youth Service CorpsKosofe, Lagos<br />
+            Apr 2025 - Mar 2026</p>
+            <p><strong>key achievements</strong></p>
+            <ul>
+                <li>
+                    Expanded digital literacy access by successfully facilitating community outreach 
+                    programs for underserved populations including traders, artisans, and elderly 
+                    residents. 
+                </li>
+                <li>
+                    Increased digital inclusion by equipping participants with foundational digital skills, 
+                    improving confidence in smartphone and internet usage. </li>
+                <li>
+                    Improved cyber awareness among community members through practical education 
+                    on phishing prevention, scam detection, and online identity protection. </li>
+                <li>
+                    Simplified complex technical concepts into relatable learning modules, driving 
+                    stronger engagement and knowledge retention among non-technical audiences. 
+                </li>
+                <li>
+                    Collaborated with cross-functional NYSC teams to execute impactful training 
+                    initiatives that promoted responsible digital participation. 
+                </li>
+            </ul>
+             <p style="font-size: 20px;"><strong>Business Intelligence Analyst</strong><br />
+            Ask Infosystem
+            Jan 2023 - Feb 2024</p>
+            <p><strong>key achievements</strong></p>
+            <ul>
+                <li>
+                    Reduced monthly reporting turnaround time by 50% (4+ hours saved monthly) 
+                    through automation and centralization of financial and operational reporting systems. 
+                </li>
+                <li>
+                    Developed interactive business intelligence dashboards that improved visibility into 
+                    revenue trends and operational performance across multiple regions and sectors. 
+                </li>
+                <li>
+                    Delivered actionable insights that supported strategic operational planning, 
+                    sustainability reporting, and executive decision-making. 
+                </li>
+                <li>
+                    Conducted market intelligence research that informed business expansion strategies 
+                    and growth initiatives. 
+                </li>
+                <li>
+                    Successfully trained 20+ staff members in analytics fundamentals, reporting practices, 
+                    and BI tool adoption, improving organizational data literacy.
+                </li>
+                <li>
+                    Drove adoption of structured data analysis frameworks across teams, improving 
+                    consistency and accuracy in performance reporting. 
+                </li>
+            </ul>
+                   <p style="font-size: 20px;"><strong>Geology Intern</strong><br />
+            Stevlus Drilling Ventures<br />
+            Jan 2023 - Jun 2023</p>
+            <p><strong>key achievements</strong></p>
+            <ul>
+                <li>
+                    Supported geological field operations through accurate data collection and site 
+                    evaluation activities that informed drilling feasibility assessments. 
+                </li>
+                <li>
+                    Contributed to land and geological structure analysis used in identifying viable 
+                    drilling locations.
+                </li>
+                <li>
+                    Assisted technical teams in executing field surveys, improving efficiency of site 
+                    assessment processes. 
+                </li>
+                <li>
+                    Strengthened operational reporting through accurate field measurements and 
+                    observational documentation. 
+                </li>
+                <li>
+                    Gained practical exposure to field geology operations, drilling assessment 
+                    methodologies, and land survey analysis. 
+                </li>
+            </ul>
+            <hr />
+            <h2 style="text-align: center; text-transform: uppercase; margin-bottom: 0">education</h2>
+            <p><strong>Bachelor of Science (B.Sc.) Geology</strong><br />
+            Olabisi Onabanjo University<br />
+            <strong>Second Class Upper Division</strong><br />
+            Sep 2019 - Dec 2023</p>
+            <hr />
+            <h2 style="text-align: center; text-transform: uppercase; margin-bottom: 0">certifications & trainings</h2>
+            <ul>
+                <li>
+                    <strong>SAP Certified Technology Associate - SAP System Security and Authorizations</strong> 
+                    (2026) 
+                </li>
+                <li>
+                    <strong>SAP Access Control - Discovering Main Functionalities of SAP Access Control</strong> 
+                    (2026) 
+                </li>
+                <li>
+                    <strong>Certificate of Merit - Digital Literacy Champion (DL4ALL, NITDA)</strong> (2026) 
+                </li>
+                <li>
+                    <strong>Experience AI Educator Certificate</strong> <br />
+                    Google DeepMind / Raspberry Pi Foundation (2025) 
+                </li>
+                <li>
+                    <strong>Data Analytics Training</strong> <br />
+                    Ask Infosystem (2024) 
+                </li>
+            </ul>
+            <hr />
+            <h3 style="text-align: center; text-transform: uppercase; margin-bottom: 0">skills</h3>
+            <ul>
+                <li>Microsoft Office Suite: ⭐️⭐️⭐️⭐️⭐️</li>
+                <li>Organizational skills: ⭐️⭐️⭐️⭐️</li>
+                <li>commitment to excellence: ⭐️⭐️⭐️⭐️⭐️</li>
+            </ul>
+    </Body> 
+</html>
